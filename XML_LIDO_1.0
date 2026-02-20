@@ -51,12 +51,12 @@
 						<lido:measurementsSet>
 							<lido:measurementType xml:lang="de">Breite</lido:measurementType>
 							<lido:measurementUnit>cm</lido:measurementUnit>
-							<lido:measurementValue>101,1</lido:measurementValue>
+							<lido:measurementValue>101.1</lido:measurementValue>
 						</lido:measurementsSet>
 						<lido:measurementsSet>
 							<lido:measurementType xml:lang="de">Tiefe</lido:measurementType>
 							<lido:measurementUnit>cm</lido:measurementUnit>
-							<lido:measurementValue>60,9</lido:measurementValue>
+							<lido:measurementValue>60.9</lido:measurementValue>
 						</lido:measurementsSet>
 					</lido:objectMeasurements>
 				</lido:objectMeasurementsSet>
